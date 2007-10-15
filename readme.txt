@@ -21,7 +21,7 @@ Typical use would be in your sidebar, where you can now have a list of forthcomi
 == Installation ==
 
 
-1. Upload `lcb_list_draft_posts` to the `/wp-content/plugins/` directory
+1. Upload `lcb_list_draft_posts.php` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Make any changes you require to the *List Draft Posts* page under the *Options* menu in WordPress
 4. Place `<?php if (function_exists('lcb_ldp')) lcb_ldp(); ?>` in a template file, most likely sidebar.php
