@@ -3,7 +3,7 @@ Contributors: LesBessant
 Donate link: http://lcb.me.uk/losingit/
 Tags: draft, drafts, sidebar 
 Requires at least: 2.0.2
-Tested up to: 2.6-bleeding
+Tested up to: 2.6
 Stable tag: 3.0
 
 Outputs a configurable list of the titles of all posts currently saved as drafts.
@@ -30,7 +30,7 @@ Typical use would be in your sidebar, where you can now have a list of forthcomi
 
 = Widget? =
 
-Not in this version.
+See my <a href="http://wordpress.org/extend/plugins/list-drafts-widget/">List Drafts Widget</a> for the same thing in a more widgety form.
 
 
 == Screenshots ==
