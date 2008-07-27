@@ -1,6 +1,6 @@
 === List Draft Posts ===
 Contributors: LesBessant
-Donate link: http://lcb.me.uk/losingit/
+Donate link: http://lcb.me.uk/losingit/donations/
 Tags: draft, drafts, sidebar 
 Requires at least: 2.0.2
 Tested up to: 2.6
