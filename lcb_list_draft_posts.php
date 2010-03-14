@@ -1,17 +1,17 @@
 <?php
 /*
 Plugin Name: List Draft Posts
-Plugin URI: http://lcb.me.uk/losingit/2007/10/14/list-draft-posts-a-wordpress-plugin
+Plugin URI: http://losingit.me.uk/2007/10/14/list-draft-posts-a-wordpress-plugin
 Description: Outputs a list of titles of draft posts. New improved version with an options page. 
-Version: 3.0
+Version: 3.0.1
 Author: Les Bessant
-Author URI: http://lcb.me.uk/losingit/
+Author URI: http://losingit.me.uk
 */
 
 
 /*
 List Draft Posts: A simple plugin for the WordPress publishing platform.
-Copyright (c) 2007 Les Bessant
+Copyright (c) 2007-2010 Les Bessant
 
 Usage: add this code where you want the list of drafts to appear
 
