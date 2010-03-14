@@ -16,7 +16,7 @@ The options page allows the user to change the markup used to suit other layouts
 
 When deactivated, the plugin will clear its options.
 
-Typical use would be in your sidebar, where you can now have a list of forthcoming items as a "teaser" for your readers, or as a reminder to authors that they really need to finsih those posts they started. It will probably not be of interest to many people, but I like it.
+Typical use would be in your sidebar, where you can now have a list of forthcoming items as a "teaser" for your readers, or as a reminder to authors that they really need to finish those posts they started. It will probably not be of interest to many people, but I like it.
 
 == Installation ==
 
@@ -31,6 +31,15 @@ Typical use would be in your sidebar, where you can now have a list of forthcomi
 = Widget? =
 
 See my <a href="http://wordpress.org/extend/plugins/list-drafts-widget/">List Drafts Widget</a> for the same thing in a more widgety form.
+
+= Can you add a feature? =
+
+I will not be making any further changes to this plugin. Anyone is more than welcome to create a more sophisticated and more useful version.
+
+== Changelog ==
+
+= 3.0 =
+* First (and last) release
 
 
 == Screenshots ==
