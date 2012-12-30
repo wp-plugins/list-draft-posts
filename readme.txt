@@ -1,14 +1,14 @@
 === List Draft Posts ===
 Contributors: LesBessant
-Donate link: http://lcb.me.uk/losingit/donations/
 Tags: draft, drafts, sidebar 
 Requires at least: 2.0.2
-Tested up to: 2.6
-Stable tag: 3.0
+Tested up to: 3.0
+Stable tag: 3.0.1
 
 Outputs a configurable list of the titles of all posts currently saved as drafts.
 
 == Description ==
+I am no longer developing or supporting this plugin. My more recent <a href="http://wordpress.org/extend/plugins/list-drafts-widget/">List Drafts Widget</a> does much the same thing in widget form, and is still supported.
 
 List Draft Posts is a simple plugin which outputs a list of the titles of all posts currently saved as drafts. An options page allows configuration of the output. Its default options will put everything in an unordered list item, the heading in &lt;h2&gt; tags, and the list of posts as an unordered list. 
 
@@ -34,12 +34,25 @@ See my <a href="http://wordpress.org/extend/plugins/list-drafts-widget/">List Dr
 
 = Can you add a feature? =
 
+
+
 I will not be making any further changes to this plugin. Anyone is more than welcome to create a more sophisticated and more useful version.
+
+
 
 == Changelog ==
 
+
+= 3.0.1 = 
+
+* Minor edits, confirming as final version and that it works up to v3.0
+
 = 3.0 =
-* First (and last) release
+
+
+* First full release
+
+
 
 
 == Screenshots ==
