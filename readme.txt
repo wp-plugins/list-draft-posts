@@ -6,7 +6,7 @@ Requires at least: 2.0.2
 Tested up to: 3.0-Alpha
 Stable tag: 3.0.1
 
-Outputs a configurable list of the titles of all posts currently saved as drafts.
+This plugin is no longer being developed or tested.
 
 == Description ==
 
